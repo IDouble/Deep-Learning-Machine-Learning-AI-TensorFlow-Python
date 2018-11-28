@@ -62,7 +62,9 @@ val_loss, val_acc = model.evaluate(x_test, y_test)  # evaluate the out of sample
 print(val_loss)  # model's loss (error)
 print(val_acc) # model's accuracy
 ```
-## Resources & Links:
+## Resources & Links: ⛓
+https://www.tensorflow.org/ </br>
+https://ai.google/education/ </br>
 Deep Learning: https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/ </br>
 TensorFlow Overview: https://www.youtube.com/watch?v=2FmcHiLCwTU </br>
 https://www.quora.com/What-do-the-terms-Weights-and-Biases-mean-in-Google-TensorFlow </br>

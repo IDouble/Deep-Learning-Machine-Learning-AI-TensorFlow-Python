@@ -24,13 +24,15 @@ This would be a **normalized three-way-tensor**.</br>
 
 ## Hyper Parameters 🔡
 
-### What is it?
-
 **Hyperparameters** contain the data that govern the training process itself. </br>
 
 As an ex. if the **learning rate** is too big, our model may skip the optimal solution, if the **learning rate** is too small we may need to many iterations to get the best result, so we try to find a **learning rate** that fits for our purpose.
 
 ![hyper parameters](Images/learning_rate.png)
+
+## What are Weights and Biases?
+
+**Weights** and **Biases** are the **learnable parameters of your model**. As well as **neural networks**, they appear with the same names in related models such as linear regression. Most machine learning algorithms include some **learnable parameters** like this.
 
 ## 📝 Example Code with Comments 📝
 ```
@@ -60,4 +62,5 @@ print(val_acc) # model's accuracy
 ```
 ## Resources & Links:
 Deep Learning: https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/ </br>
-TensorFlow Overview: https://www.youtube.com/watch?v=2FmcHiLCwTU
+TensorFlow Overview: https://www.youtube.com/watch?v=2FmcHiLCwTU </br>
+https://www.quora.com/What-do-the-terms-Weights-and-Biases-mean-in-Google-TensorFlow

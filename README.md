@@ -30,9 +30,11 @@ As an ex. if the **learning rate** is too big, our model may skip the optimal so
 
 ![hyper parameters](Images/learning_rate.png)
 
-## What are Weights and Biases?
+## What are Weights and Biases? 🔤
 
 **Weights** and **Biases** are the **learnable parameters of your model**. As well as **neural networks**, they appear with the same names in related models such as linear regression. Most machine learning algorithms include some **learnable parameters** like this.
+
+![explained picture machine learning](Images/Overview_Explained_Example.png)
 
 ## 📝 Example Code with Comments 📝
 ```

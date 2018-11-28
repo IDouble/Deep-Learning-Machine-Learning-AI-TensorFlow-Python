@@ -3,7 +3,7 @@
 
 Learning **AI Deep Learning** / **Machine Learning**.</br>
 I tried to keep it as short as possible, but Truth needs to be told, **Machine Learning** is a big topic. </br>
-In this Repository i mainly focus on **TensorFlow**.
+In this Repository, the focus is mainly on **TensorFlow**.
 
 ## What is a neural network?
 

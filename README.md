@@ -8,3 +8,5 @@ Link(Siraj Raval): https://www.youtube.com/watch?v=2FmcHiLCwTU
 ## What is a neural network?
 
 A basic **neural network** consists of an **input layer**, which is just **your data, in numerical form**. After your **input layer**, you will have some number of what are called **"hidden" layers**. **A hidden layer** is just in between your input and output layers.</br> ***One hidden layer means you just have a neural network. Two or more hidden layers? you've got a deep neural network!***
+
+![neural network](Images/artificial-neural-network-model.png)

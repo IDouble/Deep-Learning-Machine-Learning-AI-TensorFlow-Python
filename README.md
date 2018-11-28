@@ -1,2 +1,2 @@
-# AI-Deep-Learning-TensorFlow-Python
+# 🐍 AI Deep Learning TensorFlow Python 🐍
 🐍 Deep Learning with TensorFlow 🐍

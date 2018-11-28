@@ -22,6 +22,16 @@ This would be a **normalized three-way-tensor**.</br>
 
 ![neural network](Images/tensor.png)
 
+## Hyper Parameters 🔡
+
+### What is it?
+
+**Hyperparameters** contain the data that govern the training process itself. </br>
+
+As an ex. if the **learning rate** is too big, our model may skip the optimal solution, if the **learning rate** is too small we may need to many iterations to get the best result, so we try to find a **learning rate** that fits for our purpose.
+
+![hyper parameters](Images/learning_rate.png)
+
 ## 📝 Example Code with Comments 📝
 ```
 import tensorflow as tf  # deep learning library. Tensors are just multi-dimensional arrays

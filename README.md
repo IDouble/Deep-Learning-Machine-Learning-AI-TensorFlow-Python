@@ -3,7 +3,7 @@
 
 Learning & Understanding **Deep Learning / Machine Learning / Artificial Intelligence (AI)**.</br>
 I tried to keep it as short as possible, but Truth needs to be told, **Deep Learning / Machine Learning and Artificial Intelligence (AI)** are big topics. </br>
-In this Repository, the focus is mainly on **TensorFlow**.
+In this Repository, the focus is mainly on **TensorFlow** and **Deep Learning** with **neural networks**.
 
 <p align="center">
   <img width="320" src="Images/AI-ML-DL.png">

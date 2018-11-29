@@ -1,8 +1,8 @@
 # 🐍 AI Deep Learning TensorFlow Python 🐍
 🐍 **Deep Learning** with **TensorFlow** 🐍
 
-Learning & Understanding **AI Deep Learning** / **Machine Learning**.</br>
-I tried to keep it as short as possible, but Truth needs to be told, **Machine Learning** is a big topic. </br>
+Learning & Understanding **Deep Learning / Machine Learning / Artificial Intelligence (AI)**.</br>
+I tried to keep it as short as possible, but Truth needs to be told, **Deep Learning / Machine Learning and Artificial Intelligence (AI)** are big topics. </br>
 In this Repository, the focus is mainly on **TensorFlow**.
 
 ## What is a neural network? 🌐
@@ -30,9 +30,11 @@ As an ex. if the **learning rate** is too big, our model may skip the optimal so
 
 ![hyper parameters](Images/learning_rate.png)
 
-## What are Weights and Biases?
+## What are Weights and Biases? 🔤
 
 **Weights** and **Biases** are the **learnable parameters of your model**. As well as **neural networks**, they appear with the same names in related models such as linear regression. Most machine learning algorithms include some **learnable parameters** like this.
+
+![explained picture machine learning](Images/Overview_Explained_Example.png)
 
 ## 📝 Example Code with Comments 📝
 ```
@@ -60,7 +62,9 @@ val_loss, val_acc = model.evaluate(x_test, y_test)  # evaluate the out of sample
 print(val_loss)  # model's loss (error)
 print(val_acc) # model's accuracy
 ```
-## Resources & Links:
+## Resources & Links: ⛓
+https://www.tensorflow.org/ </br>
+https://ai.google/education/ </br>
 Deep Learning: https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/ </br>
 TensorFlow Overview: https://www.youtube.com/watch?v=2FmcHiLCwTU </br>
 https://www.quora.com/What-do-the-terms-Weights-and-Biases-mean-in-Google-TensorFlow </br>

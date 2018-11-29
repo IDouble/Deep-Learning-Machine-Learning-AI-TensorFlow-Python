@@ -1,4 +1,4 @@
-# 🐍 AI Deep Learning TensorFlow Python 🐍
+# 🐍 Deep Learning / Machine Learning / Artificial Intelligence (AI) TensorFlow Python 🐍
 🐍 **Deep Learning** with **TensorFlow** 🐍
 
 Learning & Understanding **Deep Learning / Machine Learning / Artificial Intelligence (AI)**.</br>

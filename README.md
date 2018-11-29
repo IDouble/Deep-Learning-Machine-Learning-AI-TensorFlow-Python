@@ -1,8 +1,8 @@
 # 🐍 AI Deep Learning TensorFlow Python 🐍
 🐍 **Deep Learning** with **TensorFlow** 🐍
 
-Learning & Understanding **Artificial Intelligence (AI) / Deep Learning** / **Machine Learning**.</br>
-I tried to keep it as short as possible, but Truth needs to be told, **Machine Learning** is a big topic. </br>
+Learning & Understanding **Deep Learning / Machine Learning / Artificial Intelligence (AI)**.</br>
+I tried to keep it as short as possible, but Truth needs to be told, **Deep Learning / Machine Learning and Artificial Intelligence (AI)** are big topics. </br>
 In this Repository, the focus is mainly on **TensorFlow**.
 
 ## What is a neural network? 🌐

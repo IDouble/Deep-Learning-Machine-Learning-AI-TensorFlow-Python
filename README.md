@@ -1,5 +1,5 @@
 # 🐍 Deep Learning / Machine Learning / Artificial Intelligence (AI) TensorFlow Python 🐍
-🐍 **Deep Learning** with **TensorFlow** 🐍
+🐍 **Deep Learning / Machine Learning / Artificial Intelligence (AI)** with **TensorFlow** 🐍
 
 Learning & Understanding **Deep Learning / Machine Learning / Artificial Intelligence (AI)**.</br>
 I tried to keep it as short as possible, but Truth needs to be told, **Deep Learning / Machine Learning and Artificial Intelligence (AI)** are big topics. </br>

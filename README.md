@@ -5,6 +5,10 @@ Learning & Understanding **Deep Learning / Machine Learning / Artificial Intelli
 I tried to keep it as short as possible, but Truth needs to be told, **Deep Learning / Machine Learning and Artificial Intelligence (AI)** are big topics. </br>
 In this Repository, the focus is mainly on **TensorFlow**.
 
+<p align="center">
+  <img width="320" src="Images/AI-ML-DL.png">
+</p>
+
 ## What is a neural network? 🌐
 
 A basic **neural network** consists of an **input layer**, which is just **your data, in numerical form**. After your **input layer**, you will have some number of what are called **"hidden" layers**. **A hidden layer** is just in between your input and output layers.</br> ***One hidden layer means you just have a neural network. Two or more hidden layers? you've got a deep neural network!***

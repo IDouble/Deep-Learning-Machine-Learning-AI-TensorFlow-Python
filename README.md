@@ -20,7 +20,11 @@ A basic **neural network** consists of an **input layer**, which is just **your 
 Each operation takes a **Tensor** as an Input and outputs a **Tensor**.</br>
 A **Tensor** is how Data is represented in **TensorFlow**.</br>
 A **Tensor is a multidimensional array** ex: </br>
-([0.245,0.618,0.382], </br>[0.618,0.382,0.245], </br>[0.382,0.245,0.618]). </br>
+[0.245,0.618,0.382]</br>
+This would be a **normalized one-way-tensor**.</br>
+[[0.245,0.618,0.382], </br>[0.618,0.382,0.245], </br>[0.382,0.245,0.618]] </br>
+This would be a **normalized two-way-tensor**.</br>
+[[[0.245,0.618,0.382],[0.618,0.382,0.245],[0.382,0.245,0.618]], </br>[[0.245,0.618,0.382],[0.618,0.382,0.245],[0.382,0.245,0.618]], </br>[[0.245,0.618,0.382],[0.618,0.382,0.245],[0.382,0.245,0.618]]] </br>
 This would be a **normalized three-way-tensor**.</br>
 **normalized** in **TensorFlow** means that the numbers are converted to a value between 0 and 1.</br> The Data needs to be **normalized**, to be actually useable in **TensorFlow**.
 

@@ -77,3 +77,5 @@ TensorFlow Overview: https://www.youtube.com/watch?v=2FmcHiLCwTU </br>
 AI vs Machine Learning vs Deep Learning: https://www.youtube.com/watch?v=WSbgixdC9g8 </br>
 https://www.quora.com/What-do-the-terms-Weights-and-Biases-mean-in-Google-TensorFlow </br>
 https://datascience.stackexchange.com/questions/19099/what-is-weight-and-bias-in-deep-learning
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
